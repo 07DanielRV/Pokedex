@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+*{
+  font-family: "Krona One";
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero-body{
+  background-image: url("/src/assets/img/Banner3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.title,.subtitle{
+  color: rgb(27, 27, 27) !important;
+}
+
+body{
+  background-color: #fee8b7;
+}
